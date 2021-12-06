@@ -8,6 +8,9 @@
 .cabeçalho{
     margin-top: 35%;
 }
+.cabeçalho-2{
+    margin-top: 10%;
+}
 .container {
 	min-height: 100%;
 }
@@ -29,7 +32,7 @@
 	/* Other */
 
 	font-family: "Roboto", sans-serif;
-	font-size: 100px;
+	font-size: 80px;
 	font-weight: 900;
 	animation: slice 3s, dynamic 7s infinite alternate linear;
 	white-space: nowrap;
